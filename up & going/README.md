@@ -8,11 +8,11 @@
 
 -----
 
-[Table of Contents](toc.md)
+[Tabla  de Contenidos](toc.md)
 
-* [Foreword](foreword.md) (by [Jenn Lukas](http://jennlukas.com))
-* [Preface](../preface.md)
-* [Chapter 1: Into Programming](ch1.md)
-* [Chapter 2: Into JavaScript](ch2.md)
-* [Chapter 3: Into YDKJS](ch3.md)
-* [Appendix A: Thank You's!](apA.md)
+* [Prólogo](foreword.md) (by [Jenn Lukas](http://jennlukas.com))
+* [Prefacio](../preface.md)
+* [Capítulo 1: Into Programming](ch1.md)
+* [Capítulo 2: Into JavaScript](ch2.md)
+* [Capítulo 3: Into YDKJS](ch3.md)
+* [Apendice A: Thank You's!](apA.md)
